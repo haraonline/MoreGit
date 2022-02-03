@@ -1,0 +1,2 @@
+# MoreGit
+Git bare minimum
